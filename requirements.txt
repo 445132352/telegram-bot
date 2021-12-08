@@ -1,0 +1,4 @@
+telebot
+pyTelegramBotAPI
+aiogram
+asyncio
